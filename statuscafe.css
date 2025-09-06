@@ -1,6 +1,6 @@
 @import url(https://gorciu.neocities.org/css/global.css);
 
-body, #statuscafe {
+body, #statuscafe, #statuscafe-content {
   background: transparent;
   border: none;
   padding: 0;
