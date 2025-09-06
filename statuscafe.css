@@ -1,3 +1,5 @@
-body {
+@import url(https://gorciu.neocities.org/css/global.css);
+
+body, #statuscafe {
   background: transparent;
 }
